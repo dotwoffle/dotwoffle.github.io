@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+#siteNav {
+    background-color: #369dd8;
+}
+
+#siteNav ul {
+    margin: 0;
+    padding: 1em;
+}
+
+#siteNav li {
+    list-style-type: none;
+    display: inline-block;
+    margin: 0 1em 0 0.3em;
+    font-size: 1.3em;
+}
+
+#siteNav a {
+    text-decoration: none;
+    color: white;
+}
+
+#siteNav a:hover {
+    color: black;
+}
